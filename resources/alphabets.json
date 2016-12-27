@@ -1,0 +1,26 @@
+{
+	"consonants" : [
+		{
+			"name" : "gaw",
+			"htmlcode" : "&#3713;"
+		},
+		{
+			"name" : "jaw",
+			"htmlcode" : "&#3720;"
+		},
+		{
+			"name" : "daw",
+			"htmlcode" : "&#3732;"
+		},
+		{
+			"name" : "dtaw",
+			"htmlcode" : "&#3733;"
+		}
+	],
+	"vowels" : [
+		{
+			"name" : "a",
+			"htmlcode" : "&#3760;"
+		}
+	]
+}

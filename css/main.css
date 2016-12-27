@@ -1,0 +1,141 @@
+@import "./reset.css";
+
+body {
+	font-family: 'Old Standard TT', serif;
+	width: 100%;
+	position: relative;
+}
+
+#navigation {
+	display: block;
+	margin: 20px auto;
+	position: absolute;
+	width: 690px;
+	left: 0;
+	right: 0;
+	z-index: 2;
+}
+
+button {
+	display: inline-block;
+	cursor: pointer;
+	background: none;
+	border: 1px solid #3677ad;
+	padding: 5px;
+	font-family: 'Old Standard TT', serif;
+}
+
+button:focus {
+	outline: none;
+}
+
+button.active-set {
+	background: #3677ad;
+	color: #fff;
+}
+
+#viewport {
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#carousel_box {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#carousel_box .htmlcode {
+	line-height: 100%;
+	font-size: 40vh;
+	text-align: center;
+	position: relative;
+	top: 10vh;
+	color: #666;
+}
+
+#carousel_box .htmlcode-v2{
+	display: block;
+	text-align: center;
+	font-size: 30vh;
+	line-height: 100%;
+	position: relative;
+	top: 10vh;
+	color: #666;
+	left: 4.5vw;
+}
+
+#carousel_box .sub-text{
+	display: block;
+	text-align: center;
+	font-size: 30vh;
+	line-height: 100%;
+	position: relative;
+	bottom: 12vh;
+	color: #ccc;
+
+}
+
+#carousel_box .name {
+	line-height: 100%;
+	font-size: 10vh;
+	text-align: center;
+	position: relative;
+	top: 10vh;
+	color: #666;
+}
+
+#carousel_box .name-v2 {
+	line-height: 100%;
+	font-size: 10vh;
+	text-align: center;
+	position: relative;
+	bottom: 15vh;
+	color: #666;
+}
+
+#carousel_box audio {
+	position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 69vh;
+}
+
+.toggle {
+	display: block;
+	cursor: pointer;
+	position: absolute;
+	top: 40vh;
+	font-size: 10vh;
+	-webkit-transition: 0.3s color;
+	-moz-transition: 0.3s color;
+	-o-transition: 0.3s color;
+	transition: 0.3s color;
+}
+
+.toggle.inactive {
+	display: none;
+}
+
+.toggle.left {
+	left: 0;
+}
+
+.toggle.right {
+	right: 0;
+}
+
+.toggle span {
+	color: #666;
+}
+
+.toggle span:hover {
+	color: #3677ad;
+}
+
+.toggle span:active {
+	color : #3677ad;
+}

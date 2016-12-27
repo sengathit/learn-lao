@@ -1,0 +1,273 @@
+{
+	"consonants1" : [
+		{ 
+			"name" 		: "gaw",
+			"htmlcode" 	: "&#3713;",
+			"word" 		: "add word"
+		},
+		{
+			"name" 		: "jaw",
+			"htmlcode" 	: "&#3720;",
+			"word" 		: "add word"
+		},
+		{
+			"name" 		: "daw",
+			"htmlcode" 	: "&#3732;",
+			"word" 		: "add word"
+		},
+		{
+			"name" 		: "dtaw",
+			"htmlcode" 	: "&#3733;",
+			"word" 		: "add word"
+		}
+	],
+	"consonants2" : [
+		{
+			"name" 		: "baw",
+			"htmlcode" 	: "&#3738;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "bpaw",
+			"htmlcode" 	: "&#3739;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "yaw",
+			"htmlcode" 	: "&#3746;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "aw",
+			"htmlcode" 	: "&#3757;",
+			"word"		: "add word"
+		}
+	],
+	"consonants3" : [
+		{
+			"name" 		: "kaw",
+			"htmlcode"	: "&#3716;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "ngaw",
+			"htmlcode"	: "&#3719;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "saw",
+			"htmlcode"	: "&#3722;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "nyaw",
+			"htmlcode"	: "&#3725;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "taw",
+			"htmlcode"	: "&#3735;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "naw",
+			"htmlcode"	: "&#3737;",
+			"word"		: "add word"
+		}
+
+	],
+	"consonants4" : [
+		{
+			"name" 		: "paw",
+			"htmlcode"	: "&#3742;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "faw",
+			"htmlcode"	: "&#3743;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "maw",
+			"htmlcode"	: "&#3745;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "law",
+			"htmlcode"	: "&#3749;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "waw",
+			"htmlcode"	: "&#3751;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "haw",
+			"htmlcode"	: "&#3758;",
+			"word"		: "add word"
+		}
+	],
+	"consonants5" : [
+		{
+			"name" 		: "k(h)aw",
+			"htmlcode"	: "&#3714;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "saw",
+			"htmlcode"	: "&#3754;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "t(h)aw",
+			"htmlcode"	: "&#3734;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "p(h)aw",
+			"htmlcode"	: "&#3740;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "faw",
+			"htmlcode"	: "&#3741;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "haw",
+			"htmlcode"	: "&#3755;",
+			"word"		: "add word"
+		}
+	],
+	"consonants6" : [
+		{
+			"name" 		: "ngaw",
+			"htmlcode"	: "&#3755;&#3719;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "nyaw",
+			"htmlcode"	: "&#3755;&#3725;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "naw",
+			"htmlcode"	: "&#3804;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "maw",
+			"htmlcode"	: "&#3805;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "law",
+			"htmlcode"	: "&#3755;&#3749;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "waw",
+			"htmlcode"	: "&#3755;&#3751;",
+			"word"		: "add word"
+		}
+	],
+	"vowels1" : [
+		{
+			"name" 		: "a",
+			"htmlcode"	: "&#3760;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "aa",
+			"htmlcode"	: "&#3762;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "aam",
+			"htmlcode"	: "&#3763;",
+			"word"		: "add word"
+		}
+	],
+	"vowels2" : [
+		{
+			"name" 		: "ah",
+			"htmlcode"	: "&#3761;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "o",
+			"htmlcode"	: "&#3771;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "i",
+			"htmlcode"	: "&#3764;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "ee",
+			"htmlcode"	: "&#3765;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "oo",
+			"htmlcode"	: "&#3766;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "uuh",
+			"htmlcode"	: "&#3767;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "aw",
+			"htmlcode"	: "&#3789;",
+			"word"		: "add word"
+		}
+	],
+	"vowels3" : [
+		{
+			"name" 		: "u",
+			"htmlcode"	: "&#3768;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "uu",
+			"htmlcode"	: "&#3769;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "ia",
+			"htmlcode"	: "&#3773;",
+			"word"		: "add word"
+		}
+	],
+	"vowels4" : [
+		{
+			"name" 		: "eei",
+			"htmlcode"	: "&#3776;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "aae",
+			"htmlcode"	: "&#3777;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "oo",
+			"htmlcode"	: "&#3778;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "ai",
+			"htmlcode"	: "&#3779;",
+			"word"		: "add word"
+		},
+		{
+			"name" 		: "ai",
+			"htmlcode"	: "&#3780;",
+			"word"		: "add word"
+		}
+	]
+}
